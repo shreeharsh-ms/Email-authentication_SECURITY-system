@@ -2,11 +2,11 @@
 it is am Email authentication system designed to validate user
 
 #It is designed with <br>
-1.PHP   //FOR accessing Database and sending OTP on mail <br>
-2.SQL   //DATABASE  <br>
-3.JS    //Some usefull functionlities like button and input should not take unwanted value <br>
-4.HTML  //basic structure <br>
-5.CSS   //Designing/styling <br>
+1.PHP  &emsp;  //FOR accessing Database and sending OTP on mail <br>
+2.SQL  &emsp; //DATABASE  <br>
+3.JS &emsp;    //Some usefull functionlities like button and input should not take unwanted value <br>
+4.HTML &emsp;  //basic structure <br>
+5.CSS   &emsp;   //Designing/styling <br>
 <br>
 ========================================== <br>
 
