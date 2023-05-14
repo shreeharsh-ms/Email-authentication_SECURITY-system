@@ -1,7 +1,7 @@
 # Email-authentication_SECURITY-system
 it is am Email authentication system designed to validate user
 
-#It is designed with
+#It is designed with <br>
 1.PHP   //FOR accessing Database and sending OTP on mail
 2.SQL   //DATABASE
 3.JS    //Some usefull functionlities like button and input should not take unwanted value
