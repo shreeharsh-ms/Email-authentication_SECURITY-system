@@ -27,7 +27,7 @@ whats the beauty of this project<br>
 
 [FRIST CREATE NEW GMAIL (if you are using gmail smtp and on 2 factor auth and create app pass word and put it in ENTER_OTP.php file)]  
 1] CONNECT WITH XAMPP SERVER <br><br>
-2} CREATE A DATABASE WITH SQL <br><br><br>
+2} CREATE A DATABASE WITH SQL <br><br>
 &emsp; &emsp;create table emai_tried{ <br>
 &emsp;&emsp;&emsp;ID int not null primary key auto_increment, <br>
 &emsp;&emsp;&emsp;email varchar(40) not null, <br>
@@ -37,7 +37,7 @@ whats the beauty of this project<br>
 &emsp;&emsp;&emsp;otp4 int not null, <br>
 &emsp;&emsp;&emsp;curdate default now() <br>
 }<br><br>
-3} ANOTHER DATABASE
+3} ANOTHER DATABASE <br><br>
 &emsp; &emsp;create table emai_tried{ <br>
 &emsp;&emsp;&emsp;ID int not null primary key auto_increment, <br>
 &emsp;&emsp;&emsp;email varchar(40) not null, <br>
