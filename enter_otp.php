@@ -293,10 +293,10 @@ ITS JUST SAMPLE VERSION FOR MAJORE PROJECT -->
                //Server settings
                $mail->SMTPDebug = 1;                      //Enable verbose debug output
                $mail->isSMTP();                                            //Send using SMTP
-               $mail->Host       = 'smtp.gmail.com';                     //Set the SMTP server to send through
+               $mail->Host       = 'smtp.gmail.com';                     //As we are using gmail smtp soo smtp.gmail.com
                $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-               $mail->Username   = 'tempmail.may2023@gmail.com';                     //SMTP username
-               $mail->Password   = 'pclzbxlevdgljdaj';                               //SMTP password
+               $mail->Username   = 'mail_add';                     //SMTP username
+               $mail->Password   = 'app_password';                               //SMTP password
                $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;            //Enable implicit TLS encryption
                $mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
                //Recipients
