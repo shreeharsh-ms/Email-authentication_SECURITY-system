@@ -2,6 +2,8 @@
 
 <p style="font-size:21px; color:green;">it is am Email authentication system designed to validate user</p>
 
+<hr><hr><br>
+
 <p style="font-size:18px; color:white;">#It is designed with</p> <br>
 1.PHP   &emsp;  //FOR accessing Database and sending OTP on mail <br>
 2.SQL   &emsp; //DATABASE  <br>
